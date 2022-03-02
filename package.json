@@ -1,0 +1,27 @@
+{
+  "name": "vite-nesting-layouts-example",
+  "version": "1.0.0",
+  "description": "nesting-layouts example for vite-plugin-vue-layouts",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "dev:open": "vite --open"
+  },
+  "keywords": [
+    "vite",
+    "plugin",
+    "layouts",
+    "example"
+  ],
+  "author": "markthree",
+  "license": "MIT",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.4",
+    "vite": "^2.8.6",
+    "vite-plugin-pages": "^0.21.0",
+    "vite-plugin-vue-layouts": "^0.6.0",
+    "vue": "^3.2.31",
+    "vue-router": "^4.0.13"
+  }
+}
